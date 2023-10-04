@@ -82,7 +82,7 @@ export default {
       text-transform: uppercase;
       padding: 1.5em 1em;
       width: 100%;
-      color: white;
+      color: #545454;
       letter-spacing: 2px;
       font-weight: bold;
       margin: 0.5em 0;
@@ -92,24 +92,12 @@ export default {
 
     .github {
       background-color: #D6DBD2;
+
     }
 
     .github:hover {
        background-color: #BBC7A4;
     }
 
-    .body__profile__translate button {
-      font-size: 0.75em;
-      border: 0;
-      background-color: transparent;
-      padding: 0;
-      text-transform: uppercase;
-      letter-spacing: 3px;
-      color: #999;
-      top: -10px;
-      cursor: pointer;
-      position: relative;
-      transition: all 0.5s;
-    }
 
 </style>
