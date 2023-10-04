@@ -63,8 +63,8 @@ input{
 
 body {
     background: rgb(236,123,32);
-    background: -moz-linear-gradient(180deg, rgba(236,123,32,1) 0%, rgba(244,180,15,1) 50%, rgba(236,123,32,1) 100%);
-    background: -webkit-linear-gradient(180deg, rgba(236,123,32,1) 0%, rgba(244,180,15,1) 50%, rgba(236,123,32,1) 100%);
-    background: linear-gradient(180deg, rgba(236,123,32,1) 0%, rgba(244,180,15,1) 50%, rgba(236,123,32,1) 100%);
+    background: -moz-linear-gradient(90deg, rgba(236,123,32,1) 0%, rgba(244,180,15,1) 50%, rgba(236,123,32,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(236,123,32,1) 0%, rgba(244,180,15,1) 50%, rgba(236,123,32,1) 100%);
+    background: linear-gradient(90deg, rgba(236,123,32,1) 0%, rgba(244,180,15,1) 50%, rgba(236,123,32,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ec7b20",endColorstr="#ec7b20",GradientType=1);
 }
